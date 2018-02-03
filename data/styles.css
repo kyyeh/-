@@ -7,7 +7,19 @@
   text-align:center;
   line-height:normal;
 }
+.box_1 {
+}
+.box_2 {
+}
 .image {
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
 }
 .heading_1 {
   font-family:'Arial Normal', 'Arial';
@@ -53,7 +65,13 @@
 .paragraph {
   text-align:left;
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
 .flow_shape {
 }
 .connector {
+}
+.icon {
 }
